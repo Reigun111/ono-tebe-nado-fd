@@ -6,7 +6,6 @@
   padding: 90px 50px 95px;
 }
 
-
 .header__links-list {
   display: flex;
   gap: 31px;
@@ -49,7 +48,6 @@
   font-size: 18px;
 }
 
-
 .header__address {
   justify-self: end;
 }
@@ -57,7 +55,6 @@
 .number_underline {
   text-underline-offset: 5px;
 }
-
 
 .cover {
   display: grid;
