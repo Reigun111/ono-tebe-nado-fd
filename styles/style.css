@@ -26,7 +26,6 @@
   line-height: 100%;
   text-decoration: underline;
   color: #000;
-  
 }
 
 .header__link_active {
@@ -66,9 +65,9 @@
 }
 
 .overlay {
-   position: absolute;
-   inset: 0;
-   background-color: rgba(0,0,0,0.6);
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .cover__title {
@@ -91,7 +90,6 @@
 
 .aligned-text_left {
   text-align: left;
-
 }
 
 .aligned-text_center {
@@ -122,7 +120,7 @@
   font-size: 22px;
   line-height: 28px;
   text-transform: uppercase;
-  word-spacing: 18px;  
+  word-spacing: 18px;
   text-align: center;
 }
 
@@ -137,7 +135,6 @@
   color: #fff;
   text-transform: uppercase;
 }
-
 
 .lots {
   padding: 180px 24px 0;
@@ -209,7 +206,7 @@
   position: relative;
   z-index: 1;
   font-size: 20px;
-  font-weight:400;
+  font-weight: 400;
   color: #fff;
   line-height: 1.2;
 }
