@@ -1,1 +1,1 @@
-https://github.com/Reigun111/ono-tebe-nado-fd#
+https://github.com/Reigun111/ono-tebe-nado-fd
