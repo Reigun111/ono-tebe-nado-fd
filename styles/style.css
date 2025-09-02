@@ -125,7 +125,7 @@
   font-size: 22px;
   line-height: 28px;
   text-transform: uppercase;
-  word-spacing: 19.8px;  
+  word-spacing: 25px;  
   text-align: center;
 }
 
@@ -265,7 +265,8 @@
 .about__text {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 25px;
+  font-weight: 400;
   font-size: 20px;
   line-height: 24px;
 }
@@ -273,7 +274,7 @@
 footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  padding: 0 50px 82px;
+  height: 180px;
 }
 
 .footer__address {
